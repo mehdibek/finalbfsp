@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Maundy
-Template URL: https://bootstrapmade.com/maundy-free-coming-soon-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: SP
+Template URL: https://smartpeddle.com/sp-free-coming-soon-bootstrap-theme/
+Author: Smartpeddle.com
+License: https://smartpeddle.com/license/
